@@ -11,5 +11,7 @@ Examples of Creational Design pattern
  
 
 ## References
-[Singleton Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=bPIRGre9JHY)  
-[Journaldev | Java Design Patterns – Example Tutorial](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
+[Singleton Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=bPIRGre9JHY) 
+[Builder Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=YmEVYvELt28)   
+[Journaldev | Java Design Patterns – Example Tutorial](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)  
+[Factory Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=a46oBUV8mZ4)  
