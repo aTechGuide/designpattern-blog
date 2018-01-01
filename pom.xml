@@ -10,6 +10,8 @@
   <version>1.0.0</version>
   <modules>
     <module>creational</module>
+    <module>structural</module>
+    <module>behavioral</module>
   </modules>
 
   <dependencies>
