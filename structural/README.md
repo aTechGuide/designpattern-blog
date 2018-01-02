@@ -3,7 +3,7 @@
 This Repository contains sample implementation of Structural Design Patterns  
 
 Examples of Structural Design pattern
- - Adapter Pattern 
+ - [Adapter Pattern](https://blog.kamranali.in/adapterpattern)
  - Composite Pattern 
  - Proxy Pattern 
  - Flyweight Pattern 
