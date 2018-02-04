@@ -6,7 +6,7 @@ Examples of Creational Design pattern
  - [Singleton Pattern](https://blog.kamranali.in/design-pattern/singleton-pattern)
  - [Builder Pattern](https://blog.kamranali.in/design-pattern/builder-pattern)
  - [Factory Pattern](https://blog.kamranali.in/design-pattern/factory-pattern)
- - [Abstract Factory Pattern](https://blog.kamranali.in/design-pattern/abstractfactory-pattern)
+ - [Abstract Factory Pattern](https://blog.kamranali.in/design-pattern/abstract-factory-pattern)
  - Prototype Pattern
  
 
