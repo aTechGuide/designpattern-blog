@@ -3,10 +3,10 @@
 This Repository contains sample implementation of Creational Design Patterns  
 
 Examples of Creational Design pattern
- - [Singleton Pattern](https://blog.kamranali.in/singleton)
- - [Builder Pattern](https://blog.kamranali.in/builderpattern)
- - [Factory Pattern](https://blog.kamranali.in/factorypattern)
- - [Abstract Factory Pattern](https://blog.kamranali.in/abstractfactorypattern)
+ - [Singleton Pattern](https://blog.kamranali.in/design-pattern/singleton-pattern)
+ - [Builder Pattern](https://blog.kamranali.in/design-pattern/builder-pattern)
+ - [Factory Pattern](https://blog.kamranali.in/design-pattern/factory-pattern)
+ - [Abstract Factory Pattern](https://blog.kamranali.in/design-pattern/abstractfactory-pattern)
  - Prototype Pattern
  
 
